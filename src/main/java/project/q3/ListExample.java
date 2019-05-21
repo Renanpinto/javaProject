@@ -7,7 +7,7 @@ import java.util.Arrays;
 public class ListExample {
 	public static void main(String[] args) {
 		List lst = new ArrayList();
-	    lst.add(new	Integer(12).intValue());
+		lst.add(new	Integer(12).intValue());
 		lst.add(new String("Opaa"));
 		lst.add(new Boolean(true));
 
